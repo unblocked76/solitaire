@@ -80,7 +80,7 @@ var menus = {
 		{
 			item: "&About Solitaire...",
 			action: ()=> {
-				window.open("https://77games.io");
+				window.open("https://Unblcoked Games 76");
 			},
 			description: "About Solitaire"
 		},
